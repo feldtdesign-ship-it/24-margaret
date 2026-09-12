@@ -86,7 +86,9 @@ Three things bond counsel decides that could make the number much smaller, or ze
 
 ### One point that cuts the other way
 
-Treasury Regulation 1.141-12(a)(4) conditions remedial action on the arrangement being bona fide and arm's-length, with the new user paying **fair market value**. That reads against a below-fair-rental-value lease of the bond-financed portion under FNSBC 20.16.020(D), because a $1-a-year lease to a nonprofit is private business use with no fair market value consideration. The Newby Park precedent in Ordinance 2025-15 involved no bond-financed property. This is a question for bond counsel, not a conclusion, but it is the kind of question that should be asked before a lease structure is drafted, not after.
+Treasury Regulation 1.141-12(a)(3) conditions remedial action on the arrangement being bona fide and arm's-length, with the new user paying **fair market value** for the use of the financed property. That reads against a below-fair-rental-value lease of the bond-financed portion under FNSBC 20.16.020(D), because a $1-a-year lease to a nonprofit is private business use with no fair market value consideration. The Newby Park precedent in Ordinance 2025-15 involved no bond-financed property.
+
+The same paragraph adds a door: fair market value may take into account governmental use restrictions placed on the property. A lease that carries real public-use obligations, priced against those obligations, may still be fair market value under the regulation even if it is below fair rental value under Borough Code. Whether that door is open for Joy is a question for bond counsel, not a conclusion, but it is the kind of question that should be asked before a lease structure is drafted, not after.
 
 ### What we could not determine
 
