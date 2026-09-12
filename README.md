@@ -5,7 +5,8 @@ A public-records audit of the former Joy Elementary School, Fairbanks, compiled 
 **Live page:** https://feldtdesign-ship-it.github.io/24-margaret/
 
 - `index.html` – the whole page. The carrying-cost meter, the building, the sixteen-month clock, the 2019 bond trail, the Borough Code pathways, what happens next, and the six blanks only the Borough can fill.
-- `docs/joy-independent-analysis-v1-first-pass.md` – the written analysis the page is built from, answering the five questions in the 12 September 2026 letter to Assemblymember Wilson.
+- `docs/joy-independent-analysis-v2.md` – the written analysis the page is built from, version 2: the Series U maturity schedule and 1 May 2029 call, Joy's pro rata share, Ordinance 2000-012 closed, the parcel record, Ordinance 2025-15 verbatim, the Title 16 clock.
+- `docs/joy-independent-analysis-v1-first-pass.md` – version 1, kept as written.
 - `assets/model/joy_map.glb` – the neighbourhood model, 174 KB Draco. The camera moves through it as you scroll, one stop per section.
 - `assets/map/` – three plates rendered from the same Blender scene: ground and water, context buildings, Joy in gold. Ortho, 760 m across, north up. They are the poster when WebGL is unavailable, and the material for the card.
 - `og.jpg` – the link preview card, the three plates composited.
@@ -41,6 +42,6 @@ glTF is Y-up. A Blender `(x, y, z)` becomes `(x, z, -y)` in three.js. The waypoi
 
 ## Where the numbers come from
 
-Every source is linked in Section Eight of the page. The Borough's own figures are the Borough's. The $167,000 carrying-cost total is our arithmetic on the Borough's stated monthly rate and is an estimate, not an audit. Nothing here is legal or tax advice.
+Every source is linked in Section Eight of the page and at the end of the version 2 document. The bond figures are the Borough's own: the 30 June 2025 audit (Note 10, Schedule 5) and the FY 2026-2027 budget (pages 426 to 431). The parcel is FNSB Property Search PAN 0093289. Joy's share of the outstanding bonds is pro rata arithmetic on the 2019 allocation and is labelled as such. The Borough's own figures are the Borough's. The $167,000 carrying-cost total is our arithmetic on the Borough's stated monthly rate and is an estimate, not an audit. Nothing here is legal or tax advice.
 
 Compiled by dx/dt LLC.
